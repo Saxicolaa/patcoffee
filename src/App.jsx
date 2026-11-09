@@ -37,7 +37,7 @@ const Award = (p) => <Icon {...p}><circle cx="12" cy="8" r="7"/><polyline points
 const Tag = (p) => <Icon {...p}><path d="M12 2H2v10l9.29 9.29c.94.94 2.48.94 3.42 0l6.58-6.58c.94-.94.94-2.48 0-3.42L12 2Z"/><path d="M7 7h.01"/></Icon>;
 
 // --- CONFIG & DATA ---
-const ADMIN_PHONE = '0123456789';
+const ADMIN_PHONE = '0382613031';
 
 const BRAND = {
   blue: '#2B4673',
